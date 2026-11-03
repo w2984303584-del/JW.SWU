@@ -1,1 +1,10 @@
 __pycache__/*
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+browser-profile/
+*.har
+*.log
+storage-state*.json
+**/__pycache__/
